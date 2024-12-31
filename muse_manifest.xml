@@ -1,0 +1,121 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1735665788470">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="4238333232" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3978191353" ref="index"/>
+    <file name="index.css" crc="4242233882" ref="index"/>
+    <file name="nomq_index.css" crc="117876179" ref="index"/>
+    <file name="licores.css" crc="3772277934" ref="licores"/>
+    <file name="nomq_licores.css" crc="252985258" ref="licores"/>
+    <file name="productos.css" crc="4086407325" ref="productos"/>
+    <file name="nomq_productos.css" crc="66192247" ref="productos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:licores:productos"/>
+    <file name="museutils.js" crc="3939489907" ref="index:licores:productos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:licores:productos"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:licores:productos"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:licores:productos"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:licores:productos"/>
+    <file name="require.js" crc="4177726516" ref="index:licores:productos"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="468265230" seo="true" ref="index:licores:productos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="licores" alt=""/>
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="licores.jpg" crc="136790628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="productos-crop-u136.jpg" crc="4034886217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="telefono.jpg" crc="4179367031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="licores" alt=""/>
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="whatsapp.jpg" crc="4267791207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="licores" alt=""/>
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="licores122x81.jpg" crc="16849128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="productos-crop-u222.jpg" crc="3905064862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:licores:productos"/>
+    <file name="amarula frambuesa.jpg" crc="3905419930" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="amarula vainilla.jpg" crc="467820457" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="baileys expresso 750 ml.jpg" crc="432634723" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="baileys litro original.jpg" crc="3761798064" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="baileys 175 original.jpg" crc="267631898" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="crema lima y limon.jpg" crc="4255816415" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="crema mango y coco.jpg" crc="482019121" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="mos de pas.jpg" crc="200778733" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="tekila rose 750 ml.jpg" crc="4060712613" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="tequilero del leste frutillacon agave.jpg" crc="185595649" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="sheridan licor de cafe.jpg" crc="480467864" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="ron cortez blanco 175.jpg" crc="3765796307" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="jagermeifter.jpg" crc="4190744941" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="gelatinas 5 sabores.jpg" crc="3969531221" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="bidu shots.jpg" crc="299329124" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="flor de cana 7 anos.jpg" crc="3970402690" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="cargador multi puerto.jpg" crc="149337286" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="picador de verduras.jpg" crc="4080828978" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="perfume tommy men.jpg" crc="4192809107" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="kit acido hialuronico.jpg" crc="404318278" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="340398026" seo="true" mt="1735665771272" redirect="true"/>
+  <file name="licores.html" crc="4122791727" seo="true" mt="1735663697827" redirect="true"/>
+  <file name="productos.html" crc="4025939395" seo="true" mt="1735665740523" redirect="true"/>
+</manifest>
