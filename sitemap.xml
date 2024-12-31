@@ -26,6 +26,12 @@
     <image:image>
       <image:loc>http://index.html/images/productos-crop-u222.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/productos-crop-u1398.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/licores284x190.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://index.html/licores.html</loc>
