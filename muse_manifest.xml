@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1735668805615">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1735669099886">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="534651210" ref="index"/>
-    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="186744596" ref="index"/>
-    <file name="index.css" crc="61812943" ref="index"/>
-    <file name="nomq_index.css" crc="4107437438" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="3991826804" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="451789958" ref="index"/>
+    <file name="index.css" crc="489035726" ref="index"/>
+    <file name="nomq_index.css" crc="380626803" ref="index"/>
     <file name="licores.css" crc="3923038337" ref="licores"/>
     <file name="nomq_licores.css" crc="194636439" ref="licores"/>
     <file name="productos.css" crc="484870693" ref="productos"/>
@@ -133,7 +133,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="404446763" seo="true" mt="1735667484832" redirect="true"/>
+  <file name="index.html" crc="256451538" seo="true" mt="1735669078866" redirect="true"/>
   <file name="licores.html" crc="202551702" seo="true" mt="1735668047577" redirect="true"/>
   <file name="productos.html" crc="4194391092" seo="true" mt="1735668761973" redirect="true"/>
 </manifest>
