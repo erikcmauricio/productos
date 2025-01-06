@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2024-12-31</lastmod>
+    <lastmod>2025-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -21,12 +21,6 @@
       <image:loc>http://index.html/images/whatsapp.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/licores122x81.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/productos-crop-u222.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://index.html/images/productos-crop-u1398.jpg</image:loc>
     </image:image>
     <image:image>
@@ -35,7 +29,7 @@
   </url>
   <url>
     <loc>http://index.html/licores.html</loc>
-    <lastmod>2024-12-31</lastmod>
+    <lastmod>2025-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -89,10 +83,16 @@
     <image:image>
       <image:loc>http://index.html/images/flor%20de%20cana%207%20anos.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/buchanan-s%20deluxe%20750%20ml.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/jack%20daniels%20honey%201.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://index.html/productos.html</loc>
-    <lastmod>2024-12-31</lastmod>
+    <lastmod>2025-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -109,6 +109,12 @@
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/kit%20acido%20hialuronico.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/perfume%20tommy%20girl.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/kit%20vitamina%20c%20nevada.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

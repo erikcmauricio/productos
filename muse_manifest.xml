@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1735669099886">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1736126018963">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="3991826804" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="3776288986" ref="index"/>
     <file name="nomq_preview_master_a-p_g_-maestra.css" crc="451789958" ref="index"/>
-    <file name="index.css" crc="489035726" ref="index"/>
-    <file name="nomq_index.css" crc="380626803" ref="index"/>
-    <file name="licores.css" crc="3923038337" ref="licores"/>
-    <file name="nomq_licores.css" crc="194636439" ref="licores"/>
-    <file name="productos.css" crc="484870693" ref="productos"/>
-    <file name="nomq_productos.css" crc="4139051352" ref="productos"/>
+    <file name="index.css" crc="314630997" ref="index"/>
+    <file name="nomq_index.css" crc="324534561" ref="index"/>
+    <file name="licores.css" crc="391738466" ref="licores"/>
+    <file name="nomq_licores.css" crc="4284226239" ref="licores"/>
+    <file name="productos.css" crc="293359835" ref="productos"/>
+    <file name="nomq_productos.css" crc="297960359" ref="productos"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:licores:productos"/>
@@ -23,12 +23,10 @@
     <file name="logo.jpg" crc="468265230" seo="true" ref="index:licores:productos">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="licores" alt=""/>
-      <caption webpage="licores" alt=""/>
-      <caption webpage="licores" alt=""/>
       <caption webpage="productos" alt=""/>
       <caption webpage="productos" alt=""/>
+      <caption webpage="licores" alt=""/>
+      <caption webpage="licores" alt=""/>
     </file>
     <file name="licores.jpg" crc="136790628" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -41,89 +39,95 @@
     <file name="telefono.jpg" crc="4179367031" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
     <file name="whatsapp.jpg" crc="4267791207" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="licores" alt=""/>
-      <caption webpage="licores" alt=""/>
-    </file>
-    <file name="licores122x81.jpg" crc="16849128" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="productos-crop-u222.jpg" crc="3905064862" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:licores:productos"/>
-    <file name="amarula frambuesa.jpg" crc="3905419930" seo="true" ref="licores">
+    <file name="amarula frambuesa.jpg" crc="4233942644" seo="true" ref="licores">
+      <caption webpage="productos" alt=""/>
       <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="amarula vainilla.jpg" crc="467820457" seo="true" ref="licores">
+    <file name="amarula vainilla.jpg" crc="4131708204" seo="true" ref="licores">
       <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="baileys expresso 750 ml.jpg" crc="432634723" seo="true" ref="licores">
+    <file name="baileys expresso 750 ml.jpg" crc="17038294" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="baileys litro original.jpg" crc="3761798064" seo="true" ref="licores">
+    <file name="baileys litro original.jpg" crc="157001698" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="baileys 175 original.jpg" crc="267631898" seo="true" ref="licores">
+    <file name="baileys 175 original.jpg" crc="447783615" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="crema lima y limon.jpg" crc="4255816415" seo="true" ref="licores">
+    <file name="crema lima y limon.jpg" crc="4025425201" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="crema mango y coco.jpg" crc="482019121" seo="true" ref="licores">
+    <file name="crema mango y coco.jpg" crc="351356902" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="mos de pas.jpg" crc="200778733" seo="true" ref="licores">
+    <file name="mos de pas.jpg" crc="211615024" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="tekila rose 750 ml.jpg" crc="4060712613" seo="true" ref="licores">
+    <file name="tekila rose 750 ml.jpg" crc="4163379420" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="tequilero del leste frutillacon agave.jpg" crc="185595649" seo="true" ref="licores">
+    <file name="tequilero del leste frutillacon agave.jpg" crc="3882325472" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="sheridan licor de cafe.jpg" crc="480467864" seo="true" ref="licores">
+    <file name="sheridan licor de cafe.jpg" crc="290208589" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="ron cortez blanco 175.jpg" crc="3765796307" seo="true" ref="licores">
+    <file name="ron cortez blanco 175.jpg" crc="3975618516" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="jagermeifter.jpg" crc="4190744941" seo="true" ref="licores">
+    <file name="jagermeifter.jpg" crc="230856899" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="gelatinas 5 sabores.jpg" crc="3969531221" seo="true" ref="licores">
+    <file name="gelatinas 5 sabores.jpg" crc="168103534" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="bidu shots.jpg" crc="299329124" seo="true" ref="licores">
+    <file name="bidu shots.jpg" crc="240157625" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="flor de cana 7 anos.jpg" crc="3970402690" seo="true" ref="licores">
+    <file name="flor de cana 7 anos.jpg" crc="3997187015" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
       <caption webpage="licores" alt=""/>
     </file>
-    <file name="cargador multi puerto.jpg" crc="149337286" seo="true" ref="productos">
+    <file name="cargador multi puerto.jpg" crc="4168421694" seo="true" ref="productos">
       <caption webpage="productos" alt=""/>
       <caption webpage="productos" alt=""/>
     </file>
-    <file name="picador de verduras.jpg" crc="4080828978" seo="true" ref="productos">
+    <file name="picador de verduras.jpg" crc="77356495" seo="true" ref="productos">
       <caption webpage="productos" alt=""/>
       <caption webpage="productos" alt=""/>
     </file>
-    <file name="perfume tommy men.jpg" crc="4192809107" seo="true" ref="productos">
-      <caption webpage="productos" alt=""/>
+    <file name="perfume tommy men.jpg" crc="532877415" seo="true" ref="productos">
       <caption webpage="productos" alt=""/>
       <caption webpage="productos" alt=""/>
     </file>
-    <file name="kit acido hialuronico.jpg" crc="404318278" seo="true" ref="productos">
+    <file name="kit acido hialuronico.jpg" crc="3985174896" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
       <caption webpage="productos" alt=""/>
     </file>
     <file name="productos-crop-u1398.jpg" crc="4034886217" seo="true" ref="index">
@@ -132,8 +136,24 @@
     <file name="licores284x190.jpg" crc="3938083464" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="buchanan-s deluxe 750 ml.jpg" crc="480563049" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+      <caption webpage="licores" alt=""/>
+    </file>
+    <file name="perfume tommy girl.jpg" crc="22287995" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="kit vitamina c nevada.jpg" crc="254774535" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="jack daniels honey 1.jpg" crc="3778479706" seo="true" ref="licores">
+      <caption webpage="licores" alt=""/>
+      <caption webpage="licores" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="256451538" seo="true" mt="1735669078866" redirect="true"/>
-  <file name="licores.html" crc="202551702" seo="true" mt="1735668047577" redirect="true"/>
-  <file name="productos.html" crc="4194391092" seo="true" mt="1735668761973" redirect="true"/>
+  <file name="index.html" crc="207664564" seo="true" mt="1736115391410" redirect="true"/>
+  <file name="licores.html" crc="250410432" seo="true" mt="1736125086522" redirect="true"/>
+  <file name="productos.html" crc="74639545" seo="true" mt="1736126003442" redirect="true"/>
 </manifest>
